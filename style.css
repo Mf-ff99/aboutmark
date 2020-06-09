@@ -1,0 +1,98 @@
+//General Styles
+.nice-background {
+  background-color: aquamarine;
+}
+
+body {
+  background-color: #F5EFED;
+  font-family: Impact; 
+}
+
+header p {
+  font-family: "Impact", cursive;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 15px;
+}
+header {
+  height: 140px;
+  margin: 0;
+  background-color:#2C8C99;
+  text-align: center;
+  color: white;
+}
+
+//Logos, button, and body styles
+.logo {
+  font-size: 34px;
+  font-family: "Impact", cursive;
+  text-transform: uppercase;
+  padding: 20px 0 0 0;
+}
+
+footer {
+  background-color: #2C8C99;
+  padding: 15px;
+  margin: 0;
+}
+
+.btns {
+  border-color: #326771;
+  text-align: center;
+
+}
+body, body p, h1 {
+  text-align: center;
+  color: black;
+}
+
+.simple-text {
+  text-align: center;
+  text-transform: lowercase;
+}
+body a {
+  text-align: center;
+  color: #fff;
+  font-family: arial;
+  background-color: #2C8C99;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 12px 15px;        
+  border-radius: 17px;
+}
+
+img {
+  align-content: center;
+  width: 50%;
+  height: 40%;
+  border-radius: 8px;
+  border: 1px solid #326771;
+  border-top: 12px;
+}
+
+.border {
+  padding: 20px;
+  border-top: 3px solid#36b3a8;
+}
+
+ul {
+  text-align: center;
+}
+//Link and more button styles
+a {
+  text-align: center;
+}
+
+a:link { color: black; }
+a:visited { color: #3267771; }
+a:hover { color: #56b3a8; }
+a:active { color: #000000; }
+a:hover {
+	text-decoration: underline overline;	
+}
+//Footer style
+footer p {
+  color: #2C8C99;
+  padding: 15px;
+  text-align: center;
+}
