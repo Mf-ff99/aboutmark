@@ -43,9 +43,15 @@ footer {
   text-align: center;
 
 }
-body, body p, h1 {
+body, h1 {
   text-align: center;
   color: black;
+}
+
+body p {
+  margin-left: auto;
+  margin-right: auto;
+  width: 30em;
 }
 
 .simple-text {
